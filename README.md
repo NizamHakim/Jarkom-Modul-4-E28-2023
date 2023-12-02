@@ -19,9 +19,9 @@
 
 ## CPT / CIDR
 ### Topologi
-Penamaan subnet yang kami gunakan untuk metode CIDR adalah sebagai berikut:  
+Penamaan subnet yang kami gunakan untuk topologi metode CIDR adalah sebagai berikut:  
 
-![topologi-cidr](https://github.com/NizamHakim/Jarkom-Modul-4-E28-2023/assets/91371703/14a72d6e-9090-4e77-b173-ec635a82941b)
+![topologi-cidr](https://github.com/NizamHakim/Jarkom-Modul-4-E28-2023/assets/91371703/83547f05-884e-467f-86e0-935b1a01295b)
 
 ### Merging Subnet
 Langkah-langkah penggabungan subnet untuk menentukan subnet terbesar kami jabarkan pada canva seperti berikut:
